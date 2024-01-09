@@ -1,13 +1,43 @@
 
 #coils{
-    width: 45%;
+    width: 45% 45%;
    
     padding: 10px;
     margin: 10px;
     float: right;
-    text-align: center;
-    padding-bottom: 15%;
+    text-align: left;
+    
+    margin-bottom: -10px;
 }
 .link{
     padding-top: 10%;
+    margin-top: -55px;
+    text-align: left;
 }
+table td{
+    border: 2px solid #000000;
+    text-align: center;
+    
+}
+#col{
+    width: 50%;
+    float: left;
+    
+}
+#coll{
+    float: right;
+    width: 49.7%;
+    margin-top: -136px;
+    margin-bottom: -3px;
+
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
