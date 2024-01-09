@@ -3,4 +3,29 @@
     border: 2px solid #000000;
     padding: 10px;
     margin: 10px;
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: italic;
+}
+table td{
+    border: 2px solid #000000;
+    padding: 10px;
+
+}
+tr:nth-child(2n){
+    background-color: aquamarine;
+}
+tr:nth-child(2n+1){
+    background-color: aqua;
+}
+.literary{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: italic;
+    border: 2px solid #000000;
+    margin-bottom: 5px;
+    padding-bottom: 3px;
+    width: 45%;
+    
 }
