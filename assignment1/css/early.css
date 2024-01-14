@@ -1,5 +1,41 @@
 #life{
-    width: 46.35%;
-    border: 2px solid #000000;
-    margin: 10px;
+    width: 600px;
+    display: block;
+    margin-left: 550px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-style: italic;
+    padding: 10px;
+    color: red;
+}
+nav{
+    float: left;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 60px;
+
+}
+#life-context{
+    float: left;
+
+}
+ul{
+    list-style: circle;
+    color: red;
+}
+footer{
+    padding: 16px 0 16px 0;
+    border-top: 2px solid #000000;
+    clear: both;
+    color: red;
+}
+body{
+    
+    margin: 0px auto;
+    background: url(../images/fon-abstraktsiia-sinii-tekstura.jpg)no-repeat;
+}
+section{
+    padding: 5px;
 }

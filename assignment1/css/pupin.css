@@ -1,6 +1,56 @@
-#nume{
-    width: 45%;
-    border: 2px solid #000000;
-    padding: 10px;
-    margin: 10px;
+#nume {
+  display: block;
+  width: 150px;
+  float: left;
+  margin-left: 136px;
+  margin-top: 140px;
+  margin-bottom: 4px;
+  color: red;
+
+}
+nav {
+  float: left;
+  width: 200px;
+  margin-left: 300px;
+  margin-top: 150px;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: medium;
+  
+}
+#text{
+    float: left;
+    width: 260px;
+    margin-left: 180px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+    color: red;
+    font-style: italic;
+    margin-top: 113px;
+   
+}
+h1{
+    top: 28px;
+    position: absolute;
+    left: 420px;
+    margin-left: 270px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: large;
+    font-style: italic;
+}
+body{
+    
+    margin: 0px auto;
+    background: url(../images/fon-abstraktsiia-sinii-tekstura.jpg)no-repeat;
+}
+ul{
+    list-style: circle;
+    color: red;
+}
+footer{
+    padding: 16px 0 16px 0;
+    border-top: 2px solid #000000;
+    clear: both;
+    color: red;
 }
