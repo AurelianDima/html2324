@@ -1,3 +1,18 @@
-#cornel > p{
-    color: blue;
+header{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#logo{
+    top: 28px;
+    position: absolute;
+    left: 650px;
+    color: moccasin;
+}
+body{
+    width: 960px;
+    background: url(../images/305619737_495695212562231_8675114267088477329_n.jpg)no-repeat;
+    
+}
+ul{
+    font-size: larger;
 }
