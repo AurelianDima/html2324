@@ -1,0 +1,18 @@
+nav{
+    font-family: "Whisper";
+    background-color: #284554;
+    height: 80px;
+    margin: 20px auto;
+    width: 80%;
+}
+nav > ul {
+    margin: 0;
+    padding: 0;
+}
+nav > ul > li> {
+    text-transform: uppercase;
+    
+    display: inline;
+    float: left;
+    padding: 5px 10px 5px 10px;
+}
